@@ -1,0 +1,9 @@
+[INFO ] 2022-01-22 09:48:07.755 [main] SeleniumWebOtomasyon - This is information message
+[ERROR] 2022-01-22 09:48:07.757 [main] SeleniumWebOtomasyon - This is an error message
+[WARN ] 2022-01-22 09:48:07.757 [main] SeleniumWebOtomasyon - This is a warning message
+[FATAL] 2022-01-22 09:48:07.757 [main] SeleniumWebOtomasyon - This is a fatal message
+[TRACE] 2022-01-22 09:51:57.026 [main] SeleniumWebOtomasyon - This is trace message
+[INFO ] 2022-01-22 09:51:57.027 [main] SeleniumWebOtomasyon - This is information message
+[ERROR] 2022-01-22 09:51:57.028 [main] SeleniumWebOtomasyon - This is an error message
+[WARN ] 2022-01-22 09:51:57.028 [main] SeleniumWebOtomasyon - This is a warning message
+[FATAL] 2022-01-22 09:51:57.028 [main] SeleniumWebOtomasyon - This is a fatal message
